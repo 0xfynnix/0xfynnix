@@ -1,20 +1,44 @@
-<h1 align="left">Hi 👋, I'm Yangfan</h1>
-<h3 align="left">A frontend developer</h3>
+# Hi there, I'm 0xfynnix 👋
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
-<img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
-<img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/d/d1/Ionic_Logo.svg" alt="ionic" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rails/rails-original-wordmark.svg" alt="rails" width="40" height="40"/>
-</p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=yangfan3211&show_icons=true&locale=en&layout=compact" alt="yangfan3211" /></p>
+Welcome to my GitHub profile! I'm a passionate developer with a keen interest in blockchain technology, cybersecurity, and open-source projects. Here's a bit about me:
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yangfan3211&" alt="yangfan3211" /></p>
+## 🧑‍💻 About Me
+
+- 🔭 I’m currently working on enhancing security protocols in blockchain systems.
+- 🌱 I’m constantly learning and exploring new technologies in the field of cybersecurity.
+- 👯 I’m looking to collaborate on open-source projects related to blockchain and security.
+- 💬 Ask me about blockchain, cryptography, and secure coding practices.
+- 📫 How to reach me: [Email](mailto:0xfynnix@example.com)
+- ⚡ Fun fact: I love participating in capture the flag (CTF) competitions and solving cryptographic puzzles.
+
+## 🛠️ Technologies & Tools
+
+- **Languages:** Python, Solidity, JavaScript, C++
+- **Blockchain:** Ethereum, Hyperledger, Solidity
+- **Cybersecurity:** Penetration Testing, Vulnerability Assessment, Cryptography
+- **Tools:** Metasploit, Wireshark, Burp Suite, Ghidra
+- **DevOps:** Docker, Kubernetes, CI/CD
+
+## 📈 GitHub Stats
+
+![0xfynnix's GitHub stats](https://github-readme-stats.vercel.app/api?username=0xfynnix&show_icons=true&theme=radical)
+
+## 🔗 Connect with Me
+
+- [Email](mailto:0xfynnix@example.com)
+- [LinkedIn](https://www.linkedin.com/in/0xfynnix)
+- [Twitter](https://twitter.com/0xfynnix)
+
+## 🚀 Projects
+
+Here are a few projects I'm currently working on or have contributed to:
+
+- [Blockchain Security Toolkit](https://github.com/0xfynnix/blockchain-security-toolkit) - A set of tools for securing blockchain applications.
+- [CTF Challenges](https://github.com/0xfynnix/ctf-challenges) - A repository of various CTF challenges and solutions.
+- [Secure Messaging App](https://github.com/0xfynnix/secure-messaging-app) - A secure messaging application built with end-to-end encryption.
+
+Feel free to reach out if you have any questions or if you want to collaborate on a project!
+
+<!--
+**0xfynnix/0xfynnix** is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+-->
