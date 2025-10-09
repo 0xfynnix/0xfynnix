@@ -14,16 +14,15 @@ Welcome to my GitHub profile! I'm a **Blockchain Frontend Developer** specializi
 ## 🏆 Open Source Contributions
 
 ### Active Projects
+**[BeWater Frontend](https://github.com/BeWaterXYZ/bewater-frontend)**
+- Core contributor to BeWater's decentralized platform
+- Developing responsive and user-friendly Web3 interfaces
+- Collaborating with cross-functional teams on feature development
 
 **[Rooch Network - RoochScan Frontend](https://github.com/rooch-network/roochscan-frontend)**
 - Contributing to the blockchain explorer frontend for Rooch Network
 - Building intuitive interfaces for transaction tracking and network analytics
 - Implementing real-time data visualization for blockchain metrics
-
-**[BeWater Frontend](https://github.com/BeWaterXYZ/bewater-frontend)**
-- Core contributor to BeWater's decentralized platform
-- Developing responsive and user-friendly Web3 interfaces
-- Collaborating with cross-functional teams on feature development
 
 ### Community Involvement
 
