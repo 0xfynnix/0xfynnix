@@ -26,11 +26,11 @@ Welcome to my GitHub profile! I'm a **Blockchain Frontend Developer** specializi
 
 ### Community Involvement
 
-- 🌊 **[@BeWaterXYZ](https://github.com/BeWaterXYZ) Organization Member**
+- **[@BeWaterXYZ](https://github.com/BeWaterXYZ) Organization Member**
   - Contributing to community-driven blockchain projects
   - Participating in technical discussions and code reviews
 
-- ⚡ **[@NonceGeek](https://github.com/NonceGeek) Organization Member**
+- **[@NonceGeek](https://github.com/NonceGeek) Organization Member**
   - Collaborating on innovative blockchain solutions
   - Sharing knowledge and best practices with the community
 
